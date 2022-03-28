@@ -30,11 +30,11 @@ div.post img {
     border: 1px solid blue;
 }
 .sub-post-header{
-    display: inline-block;
+   display: inline-block;
 }
 .sub-post-header2 {
     display: inline-block;
-    margin-left: 55%;
+    margin-left: 50%;
 }
 div.post h2, div.post p {
     padding: 10px;
