@@ -1,5 +1,5 @@
 body {
-    background: #A4D8A2;
+    background: red;
     margin: 0;
 }
 div {
@@ -11,6 +11,7 @@ header {
 }
 header h1 {
     margin: 0;
+    margin-left: 35%;
 }
 div.post {
     background: white;
@@ -23,17 +24,17 @@ div.post {
 div.post img {
     width: 100%;
 }
-.sub-post-header {
+
+
+.post-header {
+    border: 1px solid blue;
+}
+.sub-post-header{
     display: inline-block;
-    width: 80%;
 }
 .sub-post-header2 {
     display: inline-block;
-    width: 20%;
-    padding: 10px;
-    text-align: right;
-    color: gray;
-    margin-left: 326px;
+    margin-left: 55%;
 }
 div.post h2, div.post p {
     padding: 10px;
